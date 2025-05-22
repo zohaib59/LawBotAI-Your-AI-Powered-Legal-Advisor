@@ -1,0 +1,8 @@
+streamlit
+dotenv
+langchain
+langchain-community
+langgraph
+openai
+langchain_openai
+wikipedia
